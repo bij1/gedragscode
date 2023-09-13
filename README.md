@@ -15,7 +15,7 @@ commissieleden zowel landelijk als lokaal, actieve leden die werkzaamheden verri
 
 _Vastgesteld door het landelijk Bestuur van BIJ1 d.d. 09-02-2021 en effectief per die datum._
 
-## <em>Intersectionaliteit</em> en inclusiviteit
+## <mark>Intersectionaliteit</mark> en inclusiviteit
 
 BIJ1 streeft ernaar om een partij te zijn waarin we inclusief en ondersteunend met elkaar omgaan
 en waarin geen vormen van marginalisatie worden getolereerd.
@@ -39,7 +39,7 @@ Voor leden die zich kandidaat stellen voor verschillende functies binnen de part
 zoals het partijbestuur, wordt een integriteitsverklaring verwacht.
 Hierin verklaren zij integer te zijn zoals hierboven beschreven.
 
-## Omgang binnen <em>de partij</em>
+## Omgang binnen <mark>de partij</mark>
 
 Binnen BIJ1 is er een open cultuur.
 Onze omgang is respectvol, zowel binnen als buiten de partij, in woord, gebaar en geschrift.
@@ -91,7 +91,7 @@ Daarnaast adviseert de geschillencommissie het partijbestuur over de afhandeling
 Verder behandelen ze eventuele beroepen in (landelijke) kandidaatprocedures,
 en kunnen ze desgevraagd ook onderzoek en uitspraak doen bij conflicten tussen partijorganen.
 
-## Tegengestelde <em>belangen</em>
+## Tegengestelde <mark>belangen</mark>
 
 ### Belangenverstrengeling
 
@@ -152,7 +152,7 @@ dan wordt verwacht dat de relatie gemeld wordt bij een leidinggevend orgaan of h
 Indien nodig zullen er dan samen afspraken gemaakt worden om professionaliteit te waarborgen.
 Er zal met de grootste discretie omgegaan worden met deze informatie.
 
-## <em>Partijmiddelen,</em> onkosten en beloningen
+## <mark>Partijmiddelen,</mark> onkosten en beloningen
 
 BIJ1 wordt financieel ondersteund door contributie van leden, donaties en indien mogelijk ook door belastinggeld.
 Daarom gaan we zorgvuldig en volgens afspraak om met partijmiddelen en uitgaven.
@@ -164,7 +164,7 @@ Het partijbestuur en lokale besturen zijn zoals gedicteerd door de statuten van 
 Dit betekent dat ze geen beloning ontvangen voor activiteiten die namens of ten dienste van de partij worden verricht.
 Declaraties van gemaakte kosten en eventueel een bescheiden vacatiegeld is wel mogelijk.
 
-## <em>Tegengaan</em> corruptie
+## <mark>Tegengaan</mark> corruptie
 
 Er mogen geen goederen of diensten aangenomen of verstrekt worden in ruil voor BIJ1 gerelateerde diensten of invloed.
 Medewerkers en vrijwilligers mogen samenwerking met of steun van BIJ1 niet aangaan of verlenen in ruil voor diensten of gunsten van anderen,
@@ -179,7 +179,7 @@ Indien het geschenk dit formaat overstijgt dient het bestuur
 op de hoogte gebracht te worden van dergelijke geschenken
 en dienen deze mogelijk overhandigd te worden.
 
-## <em>omgaan met informatie</em> en transparantie
+## <mark>omgaan met informatie</mark> en transparantie
 
 ### Omgaan met informatie
 
@@ -215,7 +215,7 @@ Het landelijk bestuur legt verantwoording af aan de leden.
 Lokale fracties verantwoorden hun acties aan de leden van de afdeling en aan het afdelingsbestuur.
 Afdelingsbesturen leggen verantwoording af aan de landelijke partij én aan de leden woonachtig in het afdelingsgebied.
 
-## De naleving van <em>de gedragscode</em>
+## De naleving van <mark>de gedragscode</mark>
 
 Alle leden van BIJ1 zorgen collectief en individueel voor de naleving van de gedragscode.
 Indien er twijfel is of een eigen handeling in overtreding van de gedragscode is,
